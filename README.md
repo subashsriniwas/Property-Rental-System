@@ -4,6 +4,15 @@
 Subash SrIniwas M <br> 
 smsubash234@gmail.com <br>
 
+## Gallery
+
+![Screenshot 2024-01-31 104451](https://github.com/subashsriniwas/Property-Rental-System/assets/132041545/932c5c11-9329-4399-9e9f-fc5765566129)
+
+![Screenshot 2024-01-31 104559](https://github.com/subashsriniwas/Property-Rental-System/assets/132041545/ad5c1028-3288-4a13-bb18-c449054814b6)
+
+![Screenshot 2024-01-31 104612](https://github.com/subashsriniwas/Property-Rental-System/assets/132041545/f23dc0db-750c-451c-8ada-7742816a9ec3)
+
+
 ## Problem Description
 Let’s assume you have been hired by a company to analyse, design, and develop an online Property Rental
 Management System (PRMS) that its minimal requirements include:
